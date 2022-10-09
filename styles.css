@@ -1,0 +1,28 @@
+.game-Board {
+    border: 2px solid black;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;  
+}
+
+.count-number {
+    text-align: center;
+    font-size: 75px;
+}
+
+button {
+    padding: 8px 20px;
+    color: blueviolet;
+    font-size: 20px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+}
+
+body{
+    font-family: "permanent marker", cursive;
+    background-color: goldenrod;
+}
